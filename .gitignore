@@ -9,3 +9,5 @@ models
 
 # compiled python files
 *.pyc
+
+.idea
